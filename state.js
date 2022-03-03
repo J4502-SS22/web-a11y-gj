@@ -14,6 +14,7 @@ var data = [{"disability_area":"United States, DC, Territories","disability_valu
 {"disability_area":"District of Columbia","disability_value":23.7},
 {"disability_area":"Florida","disability_value":28.3},
 {"disability_area":"Georgia","disability_value":27.7},
+{"disability_area":"Guam","disability_value":30.6},
 {"disability_area":"Hawaii","disability_value":22.5},
 {"disability_area":"Idaho","disability_value":26.8},
 {"disability_area":"Illinois","disability_value":22.6},
@@ -41,6 +42,7 @@ var data = [{"disability_area":"United States, DC, Territories","disability_valu
 {"disability_area":"Oklahoma","disability_value":34.9},
 {"disability_area":"Oregon","disability_value":26.4},
 {"disability_area":"Pennsylvania","disability_value":25.3},
+{"disability_area":"Puerto Rico","disability_value":41.8},
 {"disability_area":"Rhode Island","disability_value":26.9},
 {"disability_area":"South Carolina","disability_value":29.8},
 {"disability_area":"South Dakota","disability_value":24.6},
@@ -52,9 +54,7 @@ var data = [{"disability_area":"United States, DC, Territories","disability_valu
 {"disability_area":"Washington","disability_value":22.1},
 {"disability_area":"West Virginia","disability_value":39.3},
 {"disability_area":"Wisconsin","disability_value":21.2},
-{"disability_area":"Wyoming","disability_value":25.7},
-{"disability_area":"Guam","disability_value":30.6},
-{"disability_area":"Puerto Rico","disability_value":41.8}];
+{"disability_area":"Wyoming","disability_value":25.7}];
 
 var arrayValues = [];
 
